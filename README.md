@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working as a FullStack Python Developer.
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working as a FullStack Ruby On Rails.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a secret pleasure (not anymore) in using dry face towels.
 
