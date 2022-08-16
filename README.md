@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working as a FullStack Ruby On Rails.
+- 🔭 I’m currently working as a FullStack Ruby On Rails developer.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a secret pleasure (not anymore) in using dry face towels.
 
 
   
